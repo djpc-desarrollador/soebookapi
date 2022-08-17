@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "watch": "nodemon server.js",
-    "install": "npm i",
-    "build": "npm run build"
+    "install": "",
+    "build": ""
   },
   "keywords": [],
   "author": "",
